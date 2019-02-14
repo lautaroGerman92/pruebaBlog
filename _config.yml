@@ -9,7 +9,7 @@ name: Lautaro
 description: Esto es una prueba desde el trabajo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cdn4.iconfinder.com/data/icons/people-avatars-12/24/people_avatar_head_deadpool_marvel_hero-512.png
+avatar: https://content.invisioncic.com/u284831/profile/photo-238119.gif
 
 #
 # Flags below are optional
@@ -85,4 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-hacker
+
+: jekyll-theme-hacker
